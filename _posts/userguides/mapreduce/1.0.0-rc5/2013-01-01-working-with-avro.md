@@ -1,7 +1,7 @@
 ---
 title: Working with Avro
 layout: post
-categories: [userguides, mapreduce, 1.0.0-rc4]
+categories: [userguides, mapreduce, 1.0.0-rc5]
 tags: [mapreduce-ug]
 version: 1.0.0-rc5
 order : 10 
